@@ -1,0 +1,5 @@
+Full name: Ngo Le Gia Bao
+Sex: Male
+Student ID: 52200053
+Class: 22050201
+Major: Software Engineer
